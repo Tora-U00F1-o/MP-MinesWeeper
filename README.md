@@ -16,6 +16,7 @@ Cerrado
 
 ## Instalación
 Proyecto simple de java, en Eclipse.
+Ubicación del Main: minesweeper_console/src/uo/mp/minesweeper/Main.java
 
 ## Documentación
 ### Enunciados de la asignatura para realizar el proyecto (dividido en sprints):
